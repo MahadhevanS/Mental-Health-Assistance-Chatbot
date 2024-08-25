@@ -1,6 +1,6 @@
 wheel==0.44.0
 spacy
 pytz
-dateutil==2.8
+python-dateutil==2.8
 sqlalchemy==1.4.53
 
