@@ -36,9 +36,13 @@ the latest python version.
 2. Install the required Python packages: (Note microsoft visual C++ 14.0 or greater is required)
    Get it here- https://visualstudio.microsoft.com/visual-cpp-build-tools/
    ```bash
+   
    pip install -r requirements.txt
    ```
-
+3. Please install en_core_web_sm
+   ```bash
+   python -m spacy download en_core_web_sm
+   ```
 ## Usage
 
 1. **Run the chatbot**:
