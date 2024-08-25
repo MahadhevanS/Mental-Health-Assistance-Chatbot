@@ -1,4 +1,5 @@
-mathparse>=0.1,<0.2
-python-dateutil>=2.8,<2.9
-sqlalchemy>=1.3,<1.4
-pytz
+spacy
+https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.5.0/en_core_web_sm-3.5.0.tar.gz
+sqlalchemy==1.4.53
+
+
