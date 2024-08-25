@@ -1,5 +1,7 @@
 wheel==0.44.0
 spacy
+pytz
+dateutil==2.8
 https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.5.0/en_core_web_sm-3.5.0.tar.gz
 sqlalchemy==1.4.53
 
