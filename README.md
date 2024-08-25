@@ -33,7 +33,8 @@ the latest python version.
    cd Super3_TECH-A-THON
    ```
 
-2. Install the required Python packages:
+2. Install the required Python packages: (Note microsoft visual C++ 14.0 or greater is required)
+   Get it here- https://visualstudio.microsoft.com/visual-cpp-build-tools/
    ```bash
    pip install -r requirements.txt
    ```
