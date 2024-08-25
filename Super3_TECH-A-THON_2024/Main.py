@@ -25,7 +25,7 @@ bot = ChatBot(
 print("Loading Data...")
 trainer.train(bot)
 print("Loading Successful.")
-print('\t\t\t\t\tTHERA - The AI mind healer')
+print('\t\t\t\t\tMANAS - The AI mind healer')
 print('!!!BELIEVE YOUR ARE NOT ALONE!!!')
 while True:
     try:
