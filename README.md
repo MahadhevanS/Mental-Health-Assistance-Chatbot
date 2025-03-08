@@ -1,4 +1,4 @@
-# Super3_TECH-A-THON Chatbot
+# Mental health assistance Chatbot
 
 ## Overview
 This project is a Python-based chatbot system designed to interact with users, manage user data, and store user interactions. The chatbot is built with a focus on flexibility, allowing for easy training and customization.
